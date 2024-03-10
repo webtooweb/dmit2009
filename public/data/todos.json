@@ -1,0 +1,244 @@
+{
+	"todos": {
+		"-Nq0-HecmZ-Zfg8NVLcb": {
+			"uid": "8a753924",
+			"category": "work",
+			"status": "Completed",
+			"todo": "Add animated transitions between pages",
+			"start": "2024-02-03",
+			"finish": "2024-02-17"
+		},
+		"-Nq0-HefY2Q9WOvsnEvO": {
+			"uid": "f5e7e390",
+			"category": "work",
+			"status": "Cancelled",
+			"todo": "Add hover effects to images",
+			"start": "2024-02-04",
+			"finish": "2024-02-25"
+		},
+		"-Nq0-Hej7HIdUfhb_tyn": {
+			"uid": "73e1975e",
+			"category": "health",
+			"status": "In-progress",
+			"todo": "Take a nap",
+			"start": "2024-02-02",
+			"finish": "2024-02-23"
+		},
+		"-Nq0-HemKax71EsQkH8-": {
+			"uid": "6b0cd17e",
+			"category": "school",
+			"status": "In-progress",
+			"todo": "Explore front-end frameworks",
+			"start": "2024-01-31",
+			"finish": "2024-02-21"
+		},
+		"-Nq0-HepAN8JqvC48fo8": {
+			"uid": "44ee0caf",
+			"category": "health",
+			"status": "In-progress",
+			"todo": "Practice journaling",
+			"start": "2024-01-31",
+			"finish": "2024-02-07"
+		},
+		"-Nq0-HesAbF0hN79X4GK": {
+			"uid": "c1963ef5",
+			"category": "personal",
+			"status": "In-progress",
+			"todo": "Clean the house",
+			"start": "2024-02-05",
+			"finish": "2024-02-26"
+		},
+		"-Nq0-HewT1vugI1UQLoZ": {
+			"uid": "a76af2bc",
+			"category": "school",
+			"status": "Completed",
+			"todo": "Read books on web development",
+			"start": "2024-02-01",
+			"finish": "2024-02-08"
+		},
+		"-Nq0-HezqWIXy4XyrH3l": {
+			"uid": "304645fe",
+			"category": "work",
+			"status": "Completed",
+			"todo": "Add hover effects to images",
+			"start": "2024-02-04",
+			"finish": "2024-02-18"
+		},
+		"-Nq0-Hf1ApzZlw22d9MX": {
+			"uid": "c2803b4a",
+			"category": "work",
+			"status": "Cancelled",
+			"todo": "Optimize website performance",
+			"start": "2024-02-01",
+			"finish": "2024-02-22"
+		},
+		"-Nq0-Hf4miK-qkGJh4io": {
+			"uid": "db1ea494",
+			"category": "school",
+			"status": "Cancelled",
+			"todo": "Study web accessibility guidelines",
+			"start": "2024-02-03",
+			"finish": "2024-02-10"
+		},
+		"-Nq0-Hf8ofx_o9GTqajc": {
+			"uid": "83fb2f88",
+			"category": "health",
+			"status": "Completed",
+			"todo": "Attend a therapy session",
+			"start": "2024-02-01",
+			"finish": "2024-02-22"
+		},
+		"-Nq0-HfBA1PgR6Q8cQr5": {
+			"uid": "3794d939",
+			"category": "work",
+			"status": "Cancelled",
+			"todo": "Design and implement a portfolio section",
+			"start": "2024-02-02",
+			"finish": "2024-02-16"
+		},
+		"-Nq0-HfEH26ffVPhto3L": {
+			"uid": "c77636b4",
+			"category": "school",
+			"status": "Completed",
+			"todo": "Read books on web development",
+			"start": "2024-01-29",
+			"finish": "2024-02-12"
+		},
+		"-Nq0-HfHloiQMOxqE1T1": {
+			"uid": "e10a240c",
+			"category": "health",
+			"status": "In-progress",
+			"todo": "Attend a spiritual workshop",
+			"start": "2024-02-03",
+			"finish": "2024-02-17"
+		},
+		"-Nq0-HfLqOoJuUjHA4zF": {
+			"uid": "e789fd0f",
+			"category": "school",
+			"status": "In-progress",
+			"todo": "Read books on web development",
+			"start": "2024-02-02",
+			"finish": "2024-02-23"
+		},
+		"-Nq0-HfO1GctApU2ptCb": {
+			"uid": "aa3bbb13",
+			"category": "school",
+			"status": "In-progress",
+			"todo": "Experiment with different color schemes",
+			"start": "2024-01-30",
+			"finish": "2024-02-06"
+		},
+		"-Nq0-HfRf6QwZAsQOYZC": {
+			"uid": "4ab4064c",
+			"category": "school",
+			"status": "Completed",
+			"todo": "Practice debugging techniques",
+			"start": "2024-02-05",
+			"finish": "2024-02-19"
+		},
+		"-Nq0-HfVxr31usiuuqDJ": {
+			"uid": "4a93d7e7",
+			"category": "personal",
+			"status": "In-progress",
+			"todo": "Volunteer at a local charity",
+			"start": "2024-01-31",
+			"finish": "2024-02-21"
+		},
+		"-Nq0-HfYurk2YPWgnBOb": {
+			"uid": "910ef888",
+			"category": "work",
+			"status": "Cancelled",
+			"todo": "Implement a carousel slider",
+			"start": "2024-01-31",
+			"finish": "2024-02-07"
+		},
+		"-Nq0-HfaYEPRZewZy2vy": {
+			"uid": "549cc980",
+			"category": "personal",
+			"status": "Cancelled",
+			"todo": "Visit a museum",
+			"start": "2024-02-02",
+			"finish": "2024-02-23"
+		},
+		"-Nq0-HfcHac42UpKbaDa": {
+			"uid": "11362627",
+			"category": "work",
+			"status": "In-progress",
+			"todo": "Implement a carousel slider",
+			"start": "2024-02-02",
+			"finish": "2024-02-23"
+		},
+		"-Nq0-HfeQVoqPAZUVG5g": {
+			"uid": "64b9ca6f",
+			"category": "personal",
+			"status": "In-progress",
+			"todo": "Finish work project",
+			"start": "2024-01-29",
+			"finish": "2024-02-12"
+		},
+		"-Nq0-HfgQRWyAOYk_PG4": {
+			"uid": "054f4faf",
+			"category": "health",
+			"status": "Completed",
+			"todo": "Attend a meditation retreat",
+			"start": "2024-02-03",
+			"finish": "2024-02-10"
+		},
+		"-Nq0-Hfh5eW52jvIeTbj": {
+			"uid": "f28d468c",
+			"category": "school",
+			"status": "In-progress",
+			"todo": "Explore CSS preprocessors",
+			"start": "2024-02-03",
+			"finish": "2024-02-17"
+		},
+		"-Nq0-Hfksos-zcKb_Cxv": {
+			"uid": "9c368fa8",
+			"category": "work",
+			"status": "Completed",
+			"todo": "Add a back-to-top button",
+			"start": "2024-02-05",
+			"finish": "2024-02-26"
+		},
+		"-Nq0-HfoIAdnO1Rf83oB": {
+			"uid": "1fe9a631",
+			"category": "health",
+			"status": "Completed",
+			"todo": "Take a break from social media",
+			"start": "2024-02-05",
+			"finish": "2024-02-26"
+		},
+		"-Nq0-HfsKpGWb4iocOIW": {
+			"uid": "921077ec",
+			"category": "school",
+			"status": "Completed",
+			"todo": "Learn about SEO for websites",
+			"start": "2024-01-30",
+			"finish": "2024-02-20"
+		},
+		"-Nq0-HfxNHZKaHobboNW": {
+			"uid": "7a95f4c5",
+			"category": "school",
+			"status": "Cancelled",
+			"todo": "Create a personal portfolio website",
+			"start": "2024-02-04",
+			"finish": "2024-02-25"
+		},
+		"-Nq0-Hg0xX4mZECEDdds": {
+			"uid": "07b824e5",
+			"category": "school",
+			"status": "In-progress",
+			"todo": "Study web accessibility guidelines",
+			"start": "2024-01-29",
+			"finish": "2024-02-12"
+		},
+		"-Nq0-Hg2V-Lmix9WUnww": {
+			"uid": "996dacc8",
+			"category": "school",
+			"status": "Cancelled",
+			"todo": "Read books on web development",
+			"start": "2024-01-30",
+			"finish": "2024-02-13"
+		}
+	}
+}
